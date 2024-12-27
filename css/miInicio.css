@@ -1,0 +1,182 @@
+
+.contenido-pagina{
+    position: relative;
+    width: 100%;
+    height: 200px;
+}
+.contenedor-titulo{
+    text-align: left; 
+    margin: 0;
+    font-family: "Sigmar One", sans-serif;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+
+.titulo{
+    margin: 0%;
+    padding: 0%;
+    font-size: 44px;
+    color: #e9e4cf;
+}
+
+.subtitulo{
+    margin: 0%;
+    padding-top: 12%;
+    padding-left: 3%;
+    font-size: 17px;
+    color: #e9e4cf;
+}
+
+.imagen-durazno{
+    width: 80px;
+    position:absolute;
+    top: 274%;
+    left: 70%;
+    transition: transform 0.3s;
+}
+
+.imagen-durazno:hover{
+    transform: scale(1.1);
+}
+
+.imagen-palta1{
+    z-index: 1;
+    width: 200px;
+    position:absolute;
+    top: 118%;
+    left: 65%;
+    transition: transform 0.3s;
+}
+
+.imagen-palta1:hover{
+    transform: scale(1.1);
+}
+
+.imagen-palta2{
+    width: 130px;
+    position:absolute;
+    top: -49px;
+    left: -48px;
+}
+
+.imagen-palta2:hover{
+    transform: scale(1.1);
+}
+
+.imagen-fresa{
+    z-index: 1;
+    width: 150px;
+    position:absolute;
+    top: 67%;
+    left: 76.7%;
+    transition: transform 0.3s;
+}
+
+.imagen-fresa:hover{
+    transform: scale(1.1);
+}
+
+.imagen-naranja{
+    z-index: 1;
+    width: 90px;
+    position:absolute;
+    top: 5%;
+    left: 65%;
+    transition: transform 0.3s;
+}
+
+.imagen-naranja:hover{
+    transform: scale(1.1);
+}
+
+.imagen-kiwi{
+    z-index: 1;
+    width: 100px;
+    position: absolute;
+    top: 297.5%;
+    left: -3.0%;
+    transition: transform 0.3s;
+}
+
+.imagen-kiwi:hover{
+    transform: scale(1.1);
+}
+
+.imagen-pinimamorada{
+    z-index: 1;
+    width: 80px;
+    position: absolute;
+    top: 187%;
+    left: 42%;
+    transition: transform 0.3s;
+}
+
+.imagen-pinimamorada:hover{
+    transform: scale(1.1);
+}
+
+.imagen-mancha-amarilla{
+    z-index: 0;
+    width: 460px;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    transition: transform 0.3s;
+}
+
+.imagen-mancha-amarilla:hover{
+    transform: scale(1.1);
+}
+
+.imagen-hojas1{
+    z-index: 0;
+    width: 150px;
+    position: absolute;
+    top: -33px;
+    left: -33px;
+    transition: transform 0.3s;
+}
+
+.imagen-hojas1:hover{
+    transform: scale(1.1);
+}
+
+.imagen-hojitas-amarillas{
+    z-index: 0;
+    width: 260px;
+    position: absolute;
+    top: 187%;
+    left: 52%;
+    rotate: 10deg;
+    transition: transform 0.3s;
+}
+
+.imagen-hojitas-amarillas:hover{
+    transform: scale(1.1);
+}
+
+.imagen-naranja-partida{
+z-index: 1;
+width: 100px;
+position: absolute;
+top: 145%;
+left: 90%;
+transition: transform 0.3s;
+}
+
+.imagen-naranja-partida:hover{
+transform: scale(1.1);
+}
+
+.imagen-hojas2{
+    z-index: 1;
+    width: 130px;
+    position: absolute;
+    top: 292%;
+    left: 93%;
+    transition: transform 0.3s;
+}
+
+.imagen-hojas2:hover{
+    transform: scale(1.1);
+}

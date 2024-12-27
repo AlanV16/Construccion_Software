@@ -1,0 +1,33 @@
+
+.titulo{
+    font-family: 'Times New Roman', Times, serif;
+    size: 16px;
+    text-align: center;
+}
+
+.table-datos {  
+    width: 100%; 
+    border-collapse: collapse;   
+    margin-top: 20px;  
+}  
+
+.table-datos th, .table-datos td {  
+    padding: 12px;   
+    text-align: left;   
+    border: 1px solid #ddd;  
+}  
+
+.table-datos th {  
+    background-color: #b9b096;  
+    color: white;   
+    font-weight: bold;   
+}  
+
+.table-datos tr:nth-child(even) {  
+    background-color: #f2f2f2;   
+}  
+
+.table-datos tr:hover {  
+    background-color: #e9e4cf; 
+    cursor: pointer;  
+}
